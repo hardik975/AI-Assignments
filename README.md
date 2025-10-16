@@ -1,4 +1,4 @@
-This repository contains my assignments:
+This repository contains my AI assignments:
 - Assignment 1
 - Assignment 2
 - Assignment 3
